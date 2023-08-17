@@ -1,6 +1,6 @@
 ## Fancy seeing you here!
 
-I am Gabriël, a newcomer to [Github](https://github.com/).
+I am Jones, a newcomer to [Github](https://github.com/).
 
 ## ⚡ Technologies
 
