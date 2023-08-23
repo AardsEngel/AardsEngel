@@ -1,6 +1,6 @@
-## Fancy seeing you here!
+## Leuk om jou hier te zien!
 
-I am Jones, a newcomer to [Github](https://github.com/).
+Ik ben Jonas, een nieuwe blogger die een blog host op [Github](https://github.com/).
 
 ## ⚡ Technologies
 
